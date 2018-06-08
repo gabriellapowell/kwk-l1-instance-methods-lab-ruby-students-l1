@@ -8,8 +8,9 @@ end
 def bark
   @bark = bark
   bark = "Woof!"
-  puts bark
 end
+
+puts bark
 
 def sit
   @sit = sit
