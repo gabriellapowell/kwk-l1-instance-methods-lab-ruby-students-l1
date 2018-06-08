@@ -1,8 +1,8 @@
 # dog.rb
 class Dog 
   def instance (bark, sit)
-   @bark
-   @sit
+   @bark = bark
+   @sit = sit
   end
 
   def bark
