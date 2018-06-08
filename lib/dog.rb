@@ -7,7 +7,8 @@ end
 
 def bark
   @bark = bark
-  puts "Woof!"
+  bark = "Woof!"
+  puts bark
 end
 
 def sit
