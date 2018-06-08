@@ -1,6 +1,6 @@
 # dog.rb
 class Dog 
-def instance(bark, sit)
+def instance (bark, sit)
   @bark
   @sit
 end
